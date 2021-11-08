@@ -1,6 +1,6 @@
 ### Olá, eu sou Hiago Celestino 👋
 
- - Estudando front-end
+ - Estudando desenvolvimento web
  - Contate-me no e-mail: hiago.celestino@hotmail.com
  
  <div align="center">
@@ -13,6 +13,7 @@
   <img align="center" alt="hiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="hiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="hiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
  </div>
  
  <hr/>
@@ -20,8 +21,10 @@
 <div> 
   
   <a href="https://www.instagram.com/hiago.celestino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hiago.celestino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hiagocelestino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
  
   ![Snake animation](https://github.com/hiagocelestino/hiagocelestino/blob/output/github-contribution-grid-snake.svg)
  
