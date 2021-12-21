@@ -1,6 +1,6 @@
 ### Olá, eu sou Hiago Celestino 👋
 
- - Estudando desenvolvimento web
+ - Estágiario em Desenvolvimento Web
  - Contate-me no e-mail: hiago.celestino@hotmail.com
  
  <div align="center">
