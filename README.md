@@ -1,5 +1,4 @@
- # Desenvolvedor de Software
- - E-mail: hiago.celestino@hotmail.com
+ - hiago.celestino@hotmail.com
  - [Linkedin](https://linkedin.com.br/in/hiagocelestino)
  
  <div align="center">
