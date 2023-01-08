@@ -8,9 +8,3 @@
  </div>
  
  <hr/>
- 
-<div> 
- 
-  ![Snake animation](https://github.com/hiagocelestino/hiagocelestino/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
